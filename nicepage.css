@@ -38447,23 +38447,46 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-menu-1 {
+    margin-top: 50px;
+    margin-right: 0;
+  }
+
   .u-header .u-image-1 {
     width: 72px;
     height: 74px;
+    margin-top: -50px;
+    margin-bottom: 30px;
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 126px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: 21px;
+    margin-right: 0;
+  }
+
   .u-header .u-image-1 {
     width: 84px;
     height: 86px;
-    margin-top: 20px;
-    margin-bottom: 17px;
+    margin-top: -70px;
+    margin-bottom: -17px;
+    margin-left: -22px;
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 110px;
+  }
+
   .u-header .u-image-1 {
     width: 64px;
-    height: 64px;
+    height: 63px;
+    margin-top: -70px;
+    margin-left: -32px;
   }
 }
  .u-footer {
