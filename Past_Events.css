@@ -1,0 +1,233 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 597px;
+}
+
+.u-section-1 .u-text-1 {
+  letter-spacing: 2px;
+  font-size: 3rem;
+  font-weight: normal;
+  margin: 63px 136px 0 14px;
+}
+
+.u-section-1 .u-list-1 {
+  width: 1291px;
+  margin: 39px auto 60px 14px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: 100%;
+  grid-gap: 10px 10px;
+  min-height: 309px;
+}
+
+.u-section-1 .u-list-item-1 {
+  transition-duration: 0.5s;
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 23px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 353px;
+  height: 235px;
+  margin: 0 auto 0 14px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 2.25rem;
+  margin: -206px 303px 0 383px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.875rem;
+  margin: 21px 193px 0 383px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  margin: 55px auto 0 397px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-1 {
+    height: auto;
+    width: 1140px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 574px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -221px;
+    margin-right: 87px;
+    margin-left: 391px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 23px;
+    margin-right: 83px;
+    margin-left: 391px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 30px;
+    margin-left: 391px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 604px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 266px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 323px;
+    height: 215px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -201px;
+    margin-right: 63px;
+    margin-left: 367px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 14px;
+    margin-right: -104px;
+    margin-left: 367px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 244px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 214px;
+    height: 214px;
+    margin-right: 312px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -180px;
+    margin-right: 0;
+    margin-left: 250px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 18px;
+    margin-right: 0;
+    margin-left: 250px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 27px;
+    margin-right: 181px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 652px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 320px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 17px;
+    padding-bottom: 17px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 194px;
+    width: 292px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 30px;
+    margin-right: 33px;
+    margin-left: 17px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.5rem;
+    margin-top: 9px;
+    margin-right: 33px;
+    margin-left: 17px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.75rem;
+    margin-top: 17px;
+    margin-right: auto;
+    margin-left: 17px;
+  }
+}
+
+.u-section-1 .u-list-item-1,
+.u-section-1 .u-list-item-1:before,
+.u-section-1 .u-list-item-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-list-item-1.u-list-item-1.u-list-item-1:hover {
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
+}
+
+.u-section-1 .u-list-item-1.u-list-item-1.u-list-item-1.hover {
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
+}
