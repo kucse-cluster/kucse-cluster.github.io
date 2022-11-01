@@ -13,8 +13,8 @@
 
 .u-section-1 .u-gallery-1 {
   height: 737px;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 41px;
+  margin-bottom: 39px;
 }
 
 .u-section-1 .u-carousel-indicators-1 {
@@ -239,40 +239,17 @@
   margin: 11px auto 0;
 }
 
-.u-section-2 .u-container-layout-3 {
-  padding: 30px 19px;
-}
-
-.u-section-2 .u-image-3 {
-  height: 231px;
-  margin: 0 1px;
-}
-
-.u-section-2 .u-text-4 {
-  margin: 10px 1px 0;
-}
-
-.u-section-2 .u-metadata-3 {
-  font-size: 0.875rem;
-  margin: 25px auto 0;
-}
-
-.u-section-2 .u-btn-3 {
-  margin: 11px auto 0;
-}
-
 @media (max-width: 1399px) {
+  .u-section-2 .u-repeater-1 {
+    min-height: 378px;
+  }
+
   .u-section-2 .u-image-1 {
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-2 .u-image-2 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-2 .u-image-3 {
     margin-right: initial;
     margin-left: initial;
   }
@@ -283,15 +260,15 @@
     min-height: 483px;
   }
 
+  .u-section-2 .u-repeater-1 {
+    min-height: 309px;
+  }
+
   .u-section-2 .u-text-2 {
     margin-right: 0;
   }
 
   .u-section-2 .u-text-3 {
-    margin-right: 0;
-  }
-
-  .u-section-2 .u-text-4 {
     margin-right: 0;
   }
 }
@@ -303,6 +280,7 @@
 
   .u-section-2 .u-repeater-1 {
     grid-template-columns: calc(50% - 11px) calc(50% - 11px);
+    min-height: 361px;
   }
 }
 
@@ -317,11 +295,6 @@
   }
 
   .u-section-2 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-2 .u-container-layout-3 {
     padding-left: 30px;
     padding-right: 30px;
   }

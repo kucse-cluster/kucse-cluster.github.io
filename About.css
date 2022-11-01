@@ -22,7 +22,7 @@
 
 .u-section-1 .u-btn-1 {
   background-image: none;
-  border-style: none none solid;
+  border-style: solid;
   margin: 30px auto 0 10px;
   padding: 0;
 }
